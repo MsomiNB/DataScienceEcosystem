@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-This is course assignment on how to use Jupyter Notebook
+This is a course assignment on how to use Jupyter Notebook
